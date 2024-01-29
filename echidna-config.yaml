@@ -1,0 +1,8 @@
+workers: 1
+
+testMode: assertion
+
+corpusDir: echidna-corpus
+
+deployer: "0xfffff"
+sender: ["0x10000", "0x20000", "0x30000"]
